@@ -1,4 +1,4 @@
-// This is a test comment for the commit
+// This is a test comment for the commiit
 
 <!DOCTYPE html>
 <html lang="en">
